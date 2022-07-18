@@ -1,6 +1,9 @@
 
 # SRLM_Project
 
+Deep neural network to estimate the age of a child based on an X-Ray of their hand. - Model is not included due to file size constraints.  
+
+
 ## Instructions:
 
  - Use "pip install -r requirements.txt" in order to install the
